@@ -4,6 +4,9 @@ import java.io.IOException;
 import java.net.Socket;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * 客户端代码
+ */
 public class Client {
     public static void main(String[] args) {
         try {
