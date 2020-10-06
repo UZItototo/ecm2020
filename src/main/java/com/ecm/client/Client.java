@@ -7,6 +7,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 客户端代码
  * 1
+ * 修改bug
  */
 public class Client {
     public static void main(String[] args) {
